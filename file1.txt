@@ -1,1 +1,3 @@
 belajar git bash
+
+aku suka belajar
